@@ -90,17 +90,7 @@ CREATE TABLE `sitios` (
 -- Volcado de datos para la tabla `sitios`
 --
 
-INSERT INTO `sitios` (`id`, `info_general_id`, `Nombre`, `usuario`, `contrasena_encriptada`, `notas`, `creado_en`, `nombre_sitio_id`, `actualizado_en`) VALUES
-(1, 2, NULL, 'informaticaasistente3@gmail.com', 'Umg$2023', NULL, '2025-05-29 11:51:41', 1, '2025-06-10 12:46:29'),
-(2, 2, '', 'ssolares', 'Umg$2025', NULL, '2025-06-10 11:10:02', 2, '2025-06-10 12:46:29'),
-(3, 2, '192.168.2.222/horarios', 'CENTRO_OCCIDENTE', 'Savona25$@@', NULL, '2025-06-10 12:20:11', 2, '2025-06-10 12:46:29'),
-(4, 2, '192.168.2.222/horarios', 'CENTRO_SUR', 'Savona25%@@', NULL, '2025-06-10 12:20:11', 2, '2025-06-10 12:46:29'),
-(5, 2, '192.168.2.222/horarios', 'CENTRO_SUR_2', 'Savona25#@@', NULL, '2025-06-10 12:20:11', 2, '2025-06-10 12:46:29'),
-(6, 2, '192.168.2.222/horarios', 'NOR_ORIENTE', 'Savona25/@@', NULL, '2025-06-10 12:20:11', 2, '2025-06-10 12:46:29'),
-(7, 2, '192.168.2.222/horarios', 'OCCIDENTE', 'Savona25_@@', NULL, '2025-06-10 12:20:11', 2, '2025-06-10 12:46:29'),
-(8, 2, NULL, 'TOD_01', 'Savona25*@@', NULL, '2025-06-10 14:04:33', 2, '2025-06-10 14:04:33'),
-(10, 2, '', 'TOD_02', 'Savona25-@@', NULL, '2025-06-10 14:05:13', 2, '2025-06-10 14:05:13'),
-(11, 2, 'PC Horarios', 'Administrador', 'Savona123$$', NULL, '2025-06-11 10:18:56', 3, '2025-06-11 10:18:56');
+
 
 -- --------------------------------------------------------
 
